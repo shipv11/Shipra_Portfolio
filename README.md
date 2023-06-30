@@ -21,10 +21,14 @@ In this SQL project we use window functions like ROW_NUMBER(), RANK(), DENSE_RAN
 
 
 # [Excel Project - Call Centre Analysis](https://github.com/shipv11/ExcelProject_CallCentreAnalysis)
-In this Excel Project, we analyse Call centre data. We prepare the data for dashboarding by doing the needed calculations in the Calcs sheet. We then pull through a few calculations on the dashboard sheet just to make things easier. We then make our dashboard using conditional formatting, sparklines, gauge chart, doughnut chart, data validation, and scroll bar.
+In this Excel Project, we analyse Call centre data. We prepare the data for dashboarding by doing the needed calculations in the Calcs sheet. We then pull through a few calculations on the dashboard sheet just to make things easier. Then we make our dashboard using conditional formatting, sparklines, gauge chart, doughnut chart, data validation, and scroll bar.
 
 ![](Images/Screenshot%20(67).png)
 
+# [Tableau Project - Dashboard Actions](https://github.com/shipv11/TableauProject_DashboardActions)
+In this Tableau project we demonstrate the use of the five dashboard actions in Tableau. Using World Bank Indicators dataset, we build five dashboards displaying filter action, go to url action, go to sheet action, parameter action and set action.
+
+![](Images/Screenshot%20(69).png)
 
 
 
