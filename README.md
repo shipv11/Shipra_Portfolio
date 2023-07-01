@@ -1,5 +1,4 @@
-# Shipra Vaish 
- # Portfolio
+# Shipra Vaish Portfolio
 Data analyst well versed in Python, Excel, SQL, Tableau and Power BI
 
 # [Excel Project - Bike Sales Analysis](https://github.com/shipv11/ExcelProject_BikeSales)
