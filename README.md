@@ -1,6 +1,13 @@
 # Shipra Vaish Portfolio
 Data analyst well versed in Python, Excel, SQL, Tableau and Power BI
 
+# [Python Project - Exploratory Data Analysis](https://github.com/shipv11/PythonProject_ExploratoryDataAnalysis)
+In this project, we uncover insights into **unicorn companies**–companies that are valued at over one billion dollars.  
+
+We work with a dataset about unicorn companies, discovering characteristics of the data, structuring the data in ways that will help  draw meaningful insights, and using visualizations to analyze the data. Ultimately, we will draw conclusions about what significant trends or patterns are found in the dataset.
+
+![](Images/Screenshot%20(74).png)
+
 # [Excel Project - Bike Sales Analysis](https://github.com/shipv11/ExcelProject_BikeSales)
 In this Excel project we analyse Bike sales data. Firstly, we make some additional helper columns in the working sheet. Then we make use of Pivot tables and Pivot charts to analyse average income of customers, age and age group, and commute distance. Lastly we put it all together in a presentable dashboard and join it with various slicers.
 (Note: Please enable editing in Excel to make use of slicers.)
