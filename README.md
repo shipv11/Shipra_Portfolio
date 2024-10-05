@@ -1,41 +1,29 @@
 # Shipra Vaish Portfolio
 Data analyst well versed in Python, Excel, SQL, Tableau and Power BI
 
-# [Python Project - Exploratory Data Analysis](https://github.com/shipv11/PythonProject_ExploratoryDataAnalysis)
-In this project, we uncover insights into **unicorn companies**–companies that are valued at over one billion dollars.  
+# [Audible Review - Python and Tableau](https://github.com/shipv11/Audible_Review-Python_and_Tableau)
+This dataset has information about the books on audible, their authors and narrators, their language, their length, their release date, the price, and the ratings given by readers. I cleaned the data in python by extracting numbers from strings using regex, changing datatypes of columns to show proper values, and cleaning and standardising string values. Then I loaded the cleaned csv in Tableau. After analysing the data, I created a dashboard that displayed the most rated authors, their ratings, the number of books written by them, and the average price and length of these books.
 
-We work with a dataset about unicorn companies, discovering characteristics of the data, structuring the data in ways that help  draw meaningful insights, and using visualizations to analyze the data. Ultimately, we draw conclusions about what significant trends or patterns are found in the dataset.
+  ![](https://github.com/shipv11/Audible_Review-Python_and_Tableau/blob/main/Screenshot%202024-10-05%20230745.png)
 
-![](Images/Screenshot%20(74).png)
+  ![](https://github.com/shipv11/Audible_Review-Python_and_Tableau/blob/main/Screenshot%202024-09-24%20135923.png)
+  
 
-# [Excel Project - Bike Sales Analysis](https://github.com/shipv11/ExcelProject_BikeSales)
-In this Excel project we analyse Bike sales data. Firstly, we make some additional helper columns in the working sheet. Then we make use of Pivot tables and Pivot charts to analyse average income of customers, age and age group, and commute distance. Lastly we put it all together in a presentable dashboard and join it with various slicers.
-(Note: Please enable editing in Excel to make use of slicers.)
+# [SQL Project - Data Cleaning](https://github.com/shipv11/DataCleaningInSQL)
+This dataset is about companies around the world that laid off employees from 2020-2023. I cleaned the dataset by deleting duplicates, trimming strings, standardising spellings, populating empty values, and deleting unwanted rows and columns.
 
-![](Images/Screenshot%20(68).png)
-
-
-# [Tableau Project - Sample Superstore](https://github.com/shipv11/TableauProject_SampleSuperstore)
-In this Tableau Project, we analyse Sample Superstore dataset. We make use of some basic charts like Pie chart, Bar chart, Heat table, Highlight table, Map, and several advanced charts such as Dual axis chart, Blended axis chart, Lollipop chart, Donut chart and Funnel chart. We also use Calculated fields, Filters, Ranking and Forecasting.
-(Note: In order to open the .twbx file, you need access to Tableau Desktop or Tableau Reader.)
-
-![](Images/Screenshot%20(70).png)
-
-# [SQL Project - Window Functions](https://github.com/shipv11/SQLProject_WindowFunctions)
-In this SQL project we use window functions like ROW_NUMBER(), RANK(), DENSE_RANK(), NTILE(), and LAST_VALUE() to manipulate data in the project-db database. We also use aggregate window functions together with the OVER() clause to query this database. 
-
-![](Images/Screenshot%20(71).png)
+![](https://github.com/shipv11/DataCleaningInSQL/blob/main/Screenshot%202024-10-04%20184939.png)
 
 
 # [Excel Project - Call Centre Analysis](https://github.com/shipv11/ExcelProject_CallCentreAnalysis)
-In this Excel Project, we analyse Call centre data. We prepare the data for dashboarding by doing the needed calculations in the Calcs sheet. We then pull through a few calculations on the dashboard sheet just to make things easier. Then we make our dashboard using conditional formatting, sparklines, gauge chart, doughnut chart, data validation, and scroll bar.
+In this project I produced a dashboard reviewing the performance of a Call Centre during the past six months. I prepared the data for visualization by performing the needed calculations in the Calcs sheet. I then pull through a few calculations on the dashboard sheet just to make things easier. I then prepared the dashboard using conditional formatting, sparklines, gauge chart, doughnut chart and data validation.
 
-![](Images/Screenshot%20(67).png)
+![](https://github.com/shipv11/ExcelProject_CallCentreAnalysis/blob/main/Screenshot%202024-10-04%20190737.png)
 
-# [Tableau Project - Dashboard Actions](https://github.com/shipv11/TableauProject_DashboardActions)
-In this Tableau project we demonstrate the use of the five dashboard actions in Tableau. Using World Bank Indicators dataset, we build five dashboards displaying filter action, go to url action, go to sheet action, parameter action and set action.
+# [Power BI Project - Hospital waiting list](https://github.com/shipv11/PowerBIproject-HospitalWaitingList)
+The data is a publicly available dataset from Ireland about the waiting list of patients requiring treatment from a few hospitals between 2018 and 2021. In this project I made a dashboard tracking the current status of the patient waiting list, analysing the  historical monthly trend of waiting list in Inpatient and Outpatient categories and made a detailed page displaying speciality and age profile analysis.
 
-![](Images/Screenshot%20(69).png)
+ ![](https://github.com/shipv11/Shipra_Portfolio/blob/main/Images/Screenshot%202024-09-24%20140516.png)
 
 
 
