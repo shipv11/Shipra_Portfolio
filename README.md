@@ -4,7 +4,7 @@ Data analyst well versed in Python, Excel, SQL, Tableau and Power BI
 # [Audible Review - Python and Tableau](https://github.com/shipv11/Audible_Review-Python_and_Tableau)
 This dataset has information about the books on audible, their authors and narrators, their language, their length, their release date, the price, and the ratings given by readers. I cleaned the data in python by extracting numbers from strings using regex, changing datatypes of columns to show proper values, and cleaning and standardising string values. Then I loaded the cleaned csv in Tableau. After analysing the data, I created a dashboard that displayed the most rated authors, their ratings, the number of books written by them, and the average price and length of these books.
 
-  ![](https://github.com/shipv11/Shipra_Portfolio/blob/main/Images/Screenshot%202024-10-05%20230745.png)
+  ![](/Images/Screenshot%202024-10-05%20230745.png)
 
   ![](https://github.com/shipv11/Audible_Review-Python_and_Tableau/blob/main/Screenshot%202024-09-24%20135923.png)
   
